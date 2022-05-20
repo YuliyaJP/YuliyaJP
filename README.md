@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuliyaJP
-- 👀 I’m interested in coding and yoga
+- 👀 I’m interested in coding and quality assurance
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via github
